@@ -27,3 +27,4 @@ public class Lesson12977 {
 //소수임을 확인하기 위해 반복문과 boolean 사용
 //1 이상의 3가지 정수의 합이기 때문에 3부터 반복문 시작
 //중간에 나눠지는 값이 있다면 더 이상 계산하지 않아도 괜찮기때문에 break 추가
+//https://school.programmers.co.kr/learn/courses/30/lessons/12977
